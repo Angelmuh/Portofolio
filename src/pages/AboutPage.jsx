@@ -95,7 +95,7 @@ export default function AboutPage() {
     <>
       <SEO
         title="About"
-        description="Ange Muhorakeye is a UI/UX designer based in Rwanda, turning complex problems into clear, human digital experiences through research, strategy, prototyping and iteration."
+        description="Ange Muhorakeye is an Information Technology professional and a UI/UX designer based in Rwanda, turning complex problems into clear, human digital experiences through research, strategy, prototyping and iteration."
         url="https://ange.design/about"
       />
 
@@ -288,10 +288,10 @@ export default function AboutPage() {
                   <h2 className="eyebrow" style={{ marginBottom: '1.5rem' }}>Experience</h2>
                   <ol style={{ listStyle: 'none' }}>
                     <TimelineItem
-                      period="[Insert start – end year]"
-                      title="[Insert role title]"
-                      org="[Insert organization]"
-                      description="[Insert what you did, with one measurable outcome.]"
+                      period="[July,2026 – October,2026]"
+                      title="[Trainee]"
+                      org="[SOLVIT AFRICA]"
+                      description="[Completed training where i gained hands on experience about UI/UX design]"
                     />
                     <TimelineItem
                       period="[Insert start year] – present"
@@ -311,9 +311,9 @@ export default function AboutPage() {
                     <h2 className="eyebrow" style={{ marginBottom: '1.5rem' }}>Education</h2>
                     <ol style={{ listStyle: 'none' }}>
                       <TimelineItem
-                        period="[Insert years]"
-                        title="[Insert degree or program]"
-                        org="[Insert institution]"
+                        period="[2022-2026]"
+                        title="[Information Technology]"
+                        org="[University of Rwanda]"
                         description="[Insert relevant focus areas and achievements.]"
                       />
                     </ol>
